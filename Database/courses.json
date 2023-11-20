@@ -13,6 +13,18 @@
   },
   {
     "_id": {
+      "$oid": "65510e71870c092h5441bc94"
+    },
+    "name": "Another RS Course",
+    "number": "RS102",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "department": "D123",
+    "credits": 4,
+    "description": "This course provides an in-depth study of the fundamentals of rocket propulsion, covering topics such as propulsion theory, engine types, fuel chemistry, and the practical applications of rocket technology. Designed for students with a strong background in physics and engineering, the course includes both theoretical instruction and hands-on laboratory work"
+  },
+  {
+    "_id": {
       "$oid": "65510e70870c092d5441bc94"
     },
     "name": "Rocket Propulsion",
